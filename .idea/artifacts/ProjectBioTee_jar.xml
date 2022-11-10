@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ProjectBioTee:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProjectBioTee_jar</output-path>
+    <root id="archive" name="ProjectBioTee.jar">
+      <element id="module-output" name="ProjectBioTee" />
+    </root>
+  </artifact>
+</component>
